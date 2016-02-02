@@ -1,2 +1,2 @@
 # hello-world
-this is my first project
+this is my first project. My name is Chan Han Zong
